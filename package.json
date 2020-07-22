@@ -1,5 +1,5 @@
 {
-  "name": "@lus/blueprints",
+  "name": "@lttl/blueprints",
   "version": "0.0.1",
   "description": "Language Agnostic Templating Engine",
   "main": "./bin/index.js",
