@@ -1,0 +1,17 @@
+.env
+/node_modules/
+/tmp/
+
+# OS generated files #
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Doc #
+/doc/
+
+# IDE #
+.idea
+.idea/
+*.swp
