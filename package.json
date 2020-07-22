@@ -1,0 +1,37 @@
+{
+  "name": "@lus/blueprints",
+  "version": "0.0.1",
+  "description": "Language Agnostic Templating Engine",
+  "main": "./bin/index.js",
+  "bin": {
+    "blu": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littleuniversestudios/blueprints.git"
+  },
+  "keywords": [
+    "template",
+    "engine"
+  ],
+  "author": "Little Universe Studios Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "chalk": "^2.4.2",
+    "change-case": "^3.1.0",
+    "diff": "^4.0.2",
+    "enquirer": "^2.3.5",
+    "fs-extra": "^7.0.1",
+    "htmlparser2": "^3.10.1",
+    "minimist": "^1.2.5",
+    "table": "^5.4.6"
+  },
+  "bugs": {
+    "url": "https://github.com/littleuniversestudios/blueprints/issues"
+  },
+  "homepage": "https://github.com/littleuniversestudios/blueprints#readme"
+}

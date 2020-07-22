@@ -1,6 +1,6 @@
 .env
 /node_modules/
-/tmp/
+/blueprint-templates/
 
 # OS generated files #
 .DS_Store
